@@ -1,0 +1,18 @@
+[remote "upstream"]
+	url = git@github.com:zotero/pdf-reader.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[remote "mrtcode"]
+	url = git@github.com:mrtcode/pdf-reader.git
+	fetch = +refs/heads/*:refs/remotes/mrtcode/*
+[remote "chrisyeh96"]
+	url = git@github.com:chrisyeh96/pdf-reader.git
+	fetch = +refs/heads/*:refs/remotes/chrisyeh96/*
+[remote "EdiEco"]
+	url = git@github.com:EdiEco/pdf-reader.git
+	fetch = +refs/heads/*:refs/remotes/EdiEco/*
+[remote "sherifsamy0006"]
+	url = git@github.com:sherifsamy0006/pdf-reader.git
+	fetch = +refs/heads/*:refs/remotes/sherifsamy0006/*
+[remote "tnajdek"]
+	url = git@github.com:tnajdek/pdf-reader.git
+	fetch = +refs/heads/*:refs/remotes/tnajdek/* 

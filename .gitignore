@@ -1,5 +1,6 @@
 .*
 !.gitignore
+!.gitremotes
 !.editorconfig
 node_modules
 build
